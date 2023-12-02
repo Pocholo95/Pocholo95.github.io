@@ -1,33 +1,155 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- FONT OSWALD-->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&display=swap" rel="stylesheet"> 
-    <!-- CUSTOM CSS-->
-    <link rel="stylesheet" href="styles.css">
-    <title>Custom emotes</title>
-    <div class="clearfix"></div>
-</head>
-<body>
-    <h1>Emotes</h1>
-    <section id="contenido">
-        <div class="caja"><img src="img/GirlDance01.gif"alt="">GirlDance01</div>
-        <div class="caja"><img src="img/ChibiKiss.gif"alt="">ChibiKiss</div>
-        <div class="caja"><img src="img/aaa.gif"alt="">aaa</div>
-        <div class="caja"><img src="img/KonekoDance.gif"alt="">KonekoDance</div>
-        <div class="caja"><img src="img/Question01.gif"alt="">Question01</div>
-        <div class="caja"><img src="img/JojoGone.gif"alt="">JojoGone</div>
-        <div class="caja"><img src="img/GirlDance02.gif"alt="">GirlDance02</div>
-        <div class="caja"><img src=""alt="">null</div>
-        <div class="caja"><img src=""alt="">null</div>
-        <div class="caja"><img src=""alt="">null</div>
-        <div class="caja"><img src=""alt="">null</div>
-        <div class="clearfix"></div>
-    </section>
-</body>
+<html>
+  <head>
+    <title>Enlaces de Descarga</title>
+    <style>
+      body {
+        font-size: 20px;
+        line-height: 1.5;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        background-color: #1E1E1E;
+        color: #FFFFFF;
+        font-family: "Arial", sans-serif;
+      }
+
+      h1 {
+        font-size: 30px;
+        color: #ffffff;
+      }
+
+      h2 {
+        font-size: 30px;
+        color: #ffffff;
+      }
+
+      .sections {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        max-width: 800px;
+        margin-top: 20px;
+      }
+
+      .section {
+        flex: 1;
+        margin: 0 10px;
+      }
+
+      ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+      }
+
+      li {
+        margin-bottom: 20px; /* Aumenté el espacio entre elementos */
+      }
+
+      a {
+        text-decoration: none;
+        color: #82c6ff;
+        font-weight: bold;
+        display: block;
+        padding: 10px;
+        border-radius: 5px;
+        background-color: #333;
+        transition: background-color 0.3s ease;
+      }
+
+      a:hover {
+        background-color: #444;
+      }
+
+      p {
+        margin: 0px 0;
+        font-size: 14px;
+        color: #bbb3b3;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Enlaces de Descarga</h1>
+
+    <div class="sections">
+      <div class="section">
+        <h2>Apps</h2>
+        <ul>
+          <li>
+            <a href="https://github.com/rustdesk/rustdesk/releases/tag/1.2.3" target="_blank">RustDesk</a>
+            <p>Acceso remoto a PC</p>
+          </li>
+          <li>
+            <a href="https://github.com/conda-forge/miniforge/releases/latest" target="_blank">Miniforge</a>
+            <p>Fork rápido de MiniConda</p>
+          </li>
+          <li>
+            <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox</a>
+            <p>Navegador web</p>
+          </li>
+          <li>
+            <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
+            <p>Editor de texto</p>
+          </li>
+          <li>
+            <a href="https://drive.google.com/file/d/13eidiQmVoq0QvAG1VNi-BVfrGK9fQIsr/view?usp=drive_link" target="_blank">Revo Uninstaller</a>
+            <p>Desinstalador avanzado</p>
+          </li>
+          <li>
+            <a href="https://www.flowlauncher.com/#" target="_blank">Flow launcher</a>
+            <p>Quick File Search & App Launcher for Windows</p>
+          </li>
+        </ul>
+      </div>
+
+      <div class="section">
+        <h2>Juegos</h2>
+        <ul>
+          <li>
+            <a href="https://www.nvidia.com/en-us/geforce/geforce-experience/" target="_blank">GeForce Experience</a>
+            <p>Nvidia driver updater</p>
+          </li>
+          <li>
+            <a href="https://store.steampowered.com/about/" target="_blank">Steam</a>
+            <p>Plataforma de juegos</p>
+          </li>
+          <li>
+            <a href="https://gamebanana.com/tools/14574" target="_blank">JASM</a>
+            <p>Skin manager Genshin</p>
+          </li>
+          <li>
+            <a href="URL" target="_blank">Name</a>
+            <p>Una descripción breve</p>
+          </li>
+        </ul>
+      </div>
+
+      <div class="section">
+        <h2>IA</h2>
+        <ul>
+          <li>
+            <a href="https://github.com/comfyanonymous/ComfyUI/releases/latest" target="_blank">ComfyUI</a>
+            <p>Stable diffusion node based</p>
+          </li>
+          <li>
+            <a href="https://github.com/IAHispano/Applio-RVC-Fork" target="_blank">Applio-RVC-Fork</a>
+            <p>Voice cloning</p>
+          </li>
+          <li>
+            <a href="https://drive.google.com/file/d/1pUFsHYHpRQ03DtCw_YXcxWoZ74yjgpMF/view?usp=sharing" target="_blank">Lama-Cleaner</a>
+            <p>Image inpainting</p>
+          </li>
+          <li>
+            <a href="https://github.com/Anjok07/ultimatevocalremovergui/releases/latest" target="_blank">UVR5</a>
+            <p>Vocal remover / Vocal separator</p>
+          </li>
+          <li>
+            <a href="https://github.com/lllyasviel/Fooocus/releases/tag/release/latest" target="_blank">Foocus</a>
+            <p>Easy stable diffusion</p>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </body>
 </html>
