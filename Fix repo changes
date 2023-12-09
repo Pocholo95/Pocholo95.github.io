@@ -1,0 +1,8 @@
+# Asegúrate de estar en la rama principal
+git checkout main
+
+# Descarga los cambios más recientes del repositorio remoto
+git fetch origin main
+
+# Resetea tu rama local al estado más reciente del repositorio remoto
+git reset --hard origin/main
