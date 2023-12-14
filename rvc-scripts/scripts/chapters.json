@@ -1,0 +1,434 @@
+[
+  {
+    "title": "Intro",
+    "start_time": "00:00"
+  },
+  {
+    "title": "Selección de héroe",
+    "start_time": "00:05"
+  },
+  {
+    "title": "Vigilo aquí",
+    "start_time": "00:11"
+  },
+  {
+    "title": "Modo de juego: Push 1",
+    "start_time": "00:14"
+  },
+  {
+    "title": "Aliados eliminados",
+    "start_time": "00:18"
+  },
+  {
+    "title": "Direcciones",
+    "start_time": "00:22"
+  },
+  {
+    "title": "No hay sanador",
+    "start_time": "00:26"
+  },
+  {
+    "title": "Habilidad: Torre de sanación",
+    "start_time": "00:31"
+  },
+  {
+    "title": "Modo de juego: Punto crítico",
+    "start_time": "00:41"
+  },
+  {
+    "title": "PVE: Nave",
+    "start_time": "00:46"
+  },
+  {
+    "title": "Enemigo avistado",
+    "start_time": "00:49"
+  },
+  {
+    "title": "Última con vida",
+    "start_time": "00:52"
+  },
+  {
+    "title": "Habilidad: Torre de sanación",
+    "start_time": "00:57"
+  },
+  {
+    "title": "Habilidad: Estallido",
+    "start_time": "01:01"
+  },
+  {
+    "title": "Golpe melé",
+    "start_time": "01:07"
+  },
+  {
+    "title": "Sanando",
+    "start_time": "01:10"
+  },
+  {
+    "title": "Recargando Rifle Solar",
+    "start_time": "01:43"
+  },
+  {
+    "title": "Habilidad: Torre de sanación",
+    "start_time": "01:54"
+  },
+  {
+    "title": "Eliminación",
+    "start_time": "01:59"
+  },
+  {
+    "title": "Risas",
+    "start_time": "02:03"
+  },
+  {
+    "title": "Habilidad máxima casi lista",
+    "start_time": "02:11"
+  },
+  {
+    "title": "PVE: Acechadora y Unidad de Artillería",
+    "start_time": "02:15"
+  },
+  {
+    "title": "Necesito ayuda",
+    "start_time": "02:22"
+  },
+  {
+    "title": "Adiós",
+    "start_time": "02:28"
+  },
+  {
+    "title": "Captura el objetivo",
+    "start_time": "02:31"
+  },
+  {
+    "title": "PVE: Unidad de choque",
+    "start_time": "02:40"
+  },
+  {
+    "title": "Habilidad máxima recargándose",
+    "start_time": "02:44"
+  },
+  {
+    "title": "Despejen el área",
+    "start_time": "02:46"
+  },
+  {
+    "title": "Acérquense para recibir sanación",
+    "start_time": "02:49"
+  },
+  {
+    "title": "Daño por veneno",
+    "start_time": "02:53"
+  },
+  {
+    "title": "Cuenta regresiva",
+    "start_time": "03:07"
+  },
+  {
+    "title": "Potenciamiento de daño",
+    "start_time": "03:12"
+  },
+  {
+    "title": "Daño por quemadura/congelamiento",
+    "start_time": "03:19"
+  },
+  {
+    "title": "Cuidado",
+    "start_time": "03:47"
+  },
+  {
+    "title": "Daño grave",
+    "start_time": "03:50"
+  },
+  {
+    "title": "Defiendan el objetivo",
+    "start_time": "03:59"
+  },
+  {
+    "title": "Debilitación por Discordia/Hackeo",
+    "start_time": "04:04"
+  },
+  {
+    "title": "PVE: Aliado caído",
+    "start_time": "04:08"
+  },
+  {
+    "title": "Soltar objetivo",
+    "start_time": "04:14"
+  },
+  {
+    "title": "Adelante",
+    "start_time": "04:19"
+  },
+  {
+    "title": "Eliminación por caída",
+    "start_time": "04:23"
+  },
+  {
+    "title": "PVE: Subyugador",
+    "start_time": "04:33"
+  },
+  {
+    "title": "Daño por electricidad",
+    "start_time": "04:36"
+  },
+  {
+    "title": "Eliminen a este objetivo",
+    "start_time": "04:46"
+  },
+  {
+    "title": "Eliminación",
+    "start_time": "04:51"
+  },
+  {
+    "title": "Se aproximan enemigos",
+    "start_time": "05:44"
+  },
+  {
+    "title": "Objetivo fallido",
+    "start_time": "05:49"
+  },
+  {
+    "title": "Enemigos en el objetivo",
+    "start_time": "05:52"
+  },
+  {
+    "title": "Enemigo detectado",
+    "start_time": "05:58"
+  },
+  {
+    "title": "Recuperen nuestra bandera",
+    "start_time": "06:03"
+  },
+  {
+    "title": "Transportador/Generador de escudos enemigo",
+    "start_time": "06:06"
+  },
+  {
+    "title": "Modo de juego: Junkenstein",
+    "start_time": "06:11"
+  },
+  {
+    "title": "Modo de juego: Carga",
+    "start_time": "06:16"
+  },
+  {
+    "title": "Enemigo resucitado",
+    "start_time": "06:22"
+  },
+  {
+    "title": "Tiempo se agota",
+    "start_time": "06:25"
+  },
+  {
+    "title": "Se aproximan enemigos",
+    "start_time": "06:32"
+  },
+  {
+    "title": "Recuperen nuestra bandera",
+    "start_time": "06:43"
+  },
+  {
+    "title": "Transportador/Torreta enemiga",
+    "start_time": "06:45"
+  },
+  {
+    "title": "Ataquen este objetivo",
+    "start_time": "06:53"
+  },
+  {
+    "title": "Entreguen este objetivo",
+    "start_time": "07:03"
+  },
+  {
+    "title": "Retirada",
+    "start_time": "07:05"
+  },
+  {
+    "title": "Recuperando la bandera",
+    "start_time": "07:09"
+  },
+  {
+    "title": "PVE: Aviadores",
+    "start_time": "07:12"
+  },
+  {
+    "title": "Generador de escudos enemigo",
+    "start_time": "07:15"
+  },
+  {
+    "title": "Entrando",
+    "start_time": "07:17"
+  },
+  {
+    "title": "Agrúpense conmigo",
+    "start_time": "07:20"
+  },
+  {
+    "title": "Sanación",
+    "start_time": "07:22"
+  },
+  {
+    "title": "Ataquen/Defiendan/Lista",
+    "start_time": "07:37"
+  },
+  {
+    "title": "Voy con ustedes",
+    "start_time": "07:44"
+  },
+  {
+    "title": "Abatida",
+    "start_time": "07:47"
+  },
+  {
+    "title": "Daño ligero",
+    "start_time": "07:56"
+  },
+  {
+    "title": "Eliminación por un aliado",
+    "start_time": "07:58"
+  },
+  {
+    "title": "Eliminación",
+    "start_time": "08:08"
+  },
+  {
+    "title": "Daño ligero",
+    "start_time": "08:15"
+  },
+  {
+    "title": "En posición",
+    "start_time": "08:17"
+  },
+  {
+    "title": "Gravemente dañada",
+    "start_time": "08:20"
+  },
+  {
+    "title": "Última ronda",
+    "start_time": "08:38"
+  },
+  {
+    "title": "Interacciones",
+    "start_time": "09:04"
+  },
+  {
+    "title": "Inicio de ronda",
+    "start_time": "10:01"
+  },
+  {
+    "title": "Objetivo",
+    "start_time": "10:21"
+  },
+  {
+    "title": "Melé",
+    "start_time": "10:26"
+  },
+  {
+    "title": "PVE: Subyugadora",
+    "start_time": "10:31"
+  },
+  {
+    "title": "Eliminación",
+    "start_time": "10:36"
+  },
+  {
+    "title": "Nano potenciada",
+    "start_time": "10:40"
+  },
+  {
+    "title": "Necesitamos un sanador",
+    "start_time": "10:53"
+  },
+  {
+    "title": "No",
+    "start_time": "10:55"
+  },
+  {
+    "title": "En racha",
+    "start_time": "10:57"
+  },
+  {
+    "title": "En camino",
+    "start_time": "11:02"
+  },
+  {
+    "title": "Daño leve",
+    "start_time": "11:05"
+  },
+  {
+    "title": "Modo de juego: Escolta",
+    "start_time": "11:10"
+  },
+  {
+    "title": "Modo de juego: Captura la Bandera",
+    "start_time": "11:24"
+  },
+  {
+    "title": "Ataquen",
+    "start_time": "11:27"
+  },
+  {
+    "title": "Habilidad máxima lista",
+    "start_time": "11:30"
+  },
+  {
+    "title": "Recuperen la bandera",
+    "start_time": "11:39"
+  },
+  {
+    "title": "Aliado salvado",
+    "start_time": "11:41"
+  },
+  {
+    "title": "Reaparición",
+    "start_time": "11:47"
+  },
+  {
+    "title": "Resucitada",
+    "start_time": "12:13"
+  },
+  {
+    "title": "Venganza",
+    "start_time": "12:18"
+  },
+  {
+    "title": "Aliado resucitado",
+    "start_time": "12:22"
+  },
+  {
+    "title": "Se acaba el tiempo",
+    "start_time": "12:28"
+  },
+  {
+    "title": "Caída",
+    "start_time": "12:36"
+  },
+  {
+    "title": "Prepárense/Lo siento",
+    "start_time": "13:04"
+  },
+  {
+    "title": "Daño",
+    "start_time": "13:08"
+  },
+  {
+    "title": "Equipo enemigo eliminado",
+    "start_time": "13:11"
+  },
+  {
+    "title": "Gracias",
+    "start_time": "13:14"
+  },
+  {
+    "title": "Direcciones",
+    "start_time": "13:18"
+  },
+  {
+    "title": "Habilidad máxima: Sol cautivo",
+    "start_time": "13:23"
+  },
+  {
+    "title": "Entendido",
+    "start_time": "13:30"
+  }
+]

@@ -1,0 +1,108 @@
+00:00 Intro
+00:05 Selección de héroe
+00:11 Vigilo aquí
+00:14 Modo de juego: Push 1
+00:18 Aliados eliminados
+00:22 Direcciones
+00:26 No hay sanador
+00:31 Habilidad: Torre de sanación
+00:41 Modo de juego: Punto crítico
+00:46 PVE: Nave
+00:49 Enemigo avistado
+00:52 Última con vida
+00:57 Habilidad: Torre de sanación
+01:01 Habilidad: Estallido
+01:07 Golpe melé
+01:10 Sanando
+01:43 Recargando Rifle Solar
+01:54 Habilidad: Torre de sanación
+01:59 Eliminación
+02:03 Risas
+02:11 Habilidad máxima casi lista
+02:15 PVE: Acechadora y Unidad de Artillería
+02:22 Necesito ayuda
+02:28 Adiós
+02:31 Captura el objetivo
+02:40 PVE: Unidad de choque
+02:44 Habilidad máxima recargándose
+02:46 Despejen el área
+02:49 Acérquense para recibir sanación
+02:53 Daño por veneno
+03:07 Cuenta regresiva
+03:12 Potenciamiento de daño
+03:19 Daño por quemadura/congelamiento
+03:47 Cuidado
+03:50 Daño grave
+03:59 Defiendan el objetivo
+04:04 Debilitación por Discordia/Hackeo
+04:08 PVE: Aliado caído
+04:14 Soltar objetivo
+04:19 Adelante
+04:23 Eliminación por caída
+04:33 PVE: Subyugador
+04:36 Daño por electricidad
+04:46 Eliminen a este objetivo
+04:51 Eliminación
+05:44 Se aproximan enemigos
+05:49 Objetivo fallido
+05:52 Enemigos en el objetivo
+05:58 Enemigo detectado
+06:03 Recuperen nuestra bandera
+06:06 Transportador/Generador de escudos enemigo
+06:11 Modo de juego: Junkenstein
+06:16 Modo de juego: Carga
+06:22 Enemigo resucitado
+06:25 Tiempo se agota
+06:32 Se aproximan enemigos
+06:43 Recuperen nuestra bandera
+06:45 Transportador/Torreta enemiga
+06:53 Ataquen este objetivo
+07:03 Entreguen este objetivo
+07:05 Retirada
+07:09 Recuperando la bandera
+07:12 PVE: Aviadores
+07:15 Generador de escudos enemigo
+07:17 Entrando
+07:20 Agrúpense conmigo
+07:22 Sanación
+07:37 Ataquen/Defiendan/Lista
+07:44 Voy con ustedes
+07:47 Abatida
+07:56 Daño ligero
+07:58 Eliminación por un aliado
+08:08 Eliminación
+08:15 Daño ligero
+08:17 En posición
+08:20 Gravemente dañada
+08:38 Última ronda
+09:04 Interacciones
+10:01 Inicio de ronda
+10:21 Objetivo
+10:26 Melé
+10:31 PVE: Subyugadora
+10:36 Eliminación
+10:40 Nano potenciada
+10:53 Necesitamos un sanador
+10:55 No
+10:57 En racha
+11:02 En camino
+11:05 Daño leve
+11:10 Modo de juego: Escolta
+11:24 Modo de juego: Captura la Bandera
+11:27 Ataquen
+11:30 Habilidad máxima lista
+11:39 Recuperen la bandera
+11:41 Aliado salvado
+11:47 Reaparición
+12:13 Resucitada
+12:18 Venganza
+12:22 Aliado resucitado
+12:28 Se acaba el tiempo
+12:36 Caída
+13:04 Prepárense/Lo siento
+13:08 Daño
+13:11 Equipo enemigo eliminado
+13:14 Gracias
+13:18 Direcciones
+13:23 Habilidad máxima: Sol cautivo
+13:30 Entendido
