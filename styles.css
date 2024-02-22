@@ -1,0 +1,90 @@
+body {
+    font-family: "Arial", sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #ffffff; /* Color del texto */
+    background-color: #222222; /* Color de fondo del cuerpo */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 3em;
+    color: #ffffff;
+    margin: 0px;
+}
+
+.sections {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+.section {
+    flex: 1;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #333333; /* Color de fondo de las secciones */
+    transition: background-color 0.3s ease;
+    width: calc(33.33% - 20px);
+    max-width: 300px;
+}
+
+.section:hover {
+    background-color: #444444; /* Color de fondo de las secciones al pasar el mouse */
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-top: auto;
+    margin-bottom: 10px;
+    color: #ffffff;
+    white-space: nowrap;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+    display: block;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #333333; /* Color de fondo de los enlaces */
+    transition: background-color 0.3s ease;
+    white-space: nowrap;
+    margin-bottom: 10px;
+}
+
+a:hover {
+    background-color: #444444; /* Color de fondo de los enlaces al pasar el mouse */
+}
+
+p {
+    margin: 0 auto;
+    font-size: 14px;
+    color: #ffffff50; /* Color del texto con una opacidad del 96% */
+    white-space: nowrap;
+}
+
+/* Media query para pantallas más pequeñas */
+@media (max-width: 768px) {
+    .sections {
+        justify-content: space-around;
+    }
+}
