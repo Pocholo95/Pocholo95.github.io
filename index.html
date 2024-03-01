@@ -1,171 +1,66 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Enlaces de Descarga</title>
+  <title>Download Links</title>
   <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
+  <h1>Download Links</h1>
+  <div class="sections" id="sectionsContainer"></div>
 
-  <h1>Enlaces de Descarga</h1>
-  <div class="sections">
-    <div class="section">
-      <h2>Cotidianas</h2>
-      <ul>
-        <li>
-          <a href="https://www.mozilla.org/en-US/firefox/new/" target="_blank">Firefox
-            <p>Navegador web</p>
-          </a>
+  <script>
+    // Function to fetch and display links
+    async function fetchAndDisplayLinks() {
+      try {
+        const response = await fetch('content.json'); // Fetch contents.json
+        const data = await response.json(); // Parse JSON response
+        const sectionsContainer = document.getElementById('sectionsContainer'); // Get sections container element
 
-        </li>
-        <li>
-          <a href="https://www.logitechg.com/en-us/innovation/g-hub.html" target="_blank">Logitech G Hub
-            <p>Hub para dispositivos Logitech</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://discord.com/" target="_blank">Discord
-            <p>Discord</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://open.spotify.com/download" target="_blank">Spotify
-            <p>Spotify</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://7-zip.org/" target="_blank">7-Zip
-            <p>Compresión y descompresión</p>
-          </a>
-        </li>
-      </ul>
-    </div>
+        // Loop through each category
+        data.categories.forEach(category => {
+          const sectionDiv = document.createElement('div'); // Create a new section
+          sectionDiv.classList.add('section');
+          const h2 = document.createElement('h2'); // Create heading for the category
+          h2.textContent = category.name;
+          sectionDiv.appendChild(h2);
 
-    <div class="section">
-      <h2>Especializadas</h2>
-      <ul>
-        <li>
-          <a href="https://drive.google.com/file/d/13eidiQmVoq0QvAG1VNi-BVfrGK9fQIsr/view?usp=drive_link"
-            target="_blank">Revo Uninstaller
-            <p>Desinstalador avanzado</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/rustdesk/rustdesk/releases/latest" target="_blank">RustDesk
-            <p>Acceso remoto a PC</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/conda-forge/miniforge/releases/latest" target="_blank">Miniforge
-            <p>Fork rápido de MiniConda</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code
-            <p>Editor de texto</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://git-scm.com/download/win" target="_blank">Git
-            <p>Descargar repos de GitHub</p>
-          </a>
-        </li>
-      </ul>
-    </div>
+          const ul = document.createElement('ul'); // Create a list for links
+          category.links.forEach(link => {
+            const li = document.createElement('li'); // Create list item for each link
+            const a = document.createElement('a'); // Create anchor element
+            a.textContent = link.name;
+            a.href = link.url;
+            a.target = '_blank';
 
-    <div class="section">
-      <h2>Juegos</h2>
-      <ul>
-        <li>
-          <a href="https://www.nvidia.com/en-us/geforce/geforce-experience/" target="_blank">GeForce Experience
-            <p>Nvidia driver updater</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://store.steampowered.com/about/" target="_blank">Steam
-            <p>Games Launcher</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://gamebanana.com/tools/14574" target="_blank">JASM
-            <p>Skin manager Genshin</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.epicgames.com/site/en-US/home" target="_blank">Epic Games
-            <p>Games Launcher</p>
-          </a>
-        </li>
-      </ul>
-    </div>
+            // Create paragraph for link description
+            const p = document.createElement('p');
+            p.textContent = link.description;
 
-    <div class="section">
-      <h2>IA</h2>
-      <ul>
-        <li>
-          <a href="https://github.com/comfyanonymous/ComfyUI/releases/latest" target="_blank">ComfyUI
-            <p>Stable diffusion node based</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/IAHispano/Applio" target="_blank">Applio
-            <p>Voice cloning</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://drive.google.com/file/d/1pUFsHYHpRQ03DtCw_YXcxWoZ74yjgpMF/view?usp=sharing"
-            target="_blank">Lama-Cleaner
-            <p>Image inpainting</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/Anjok07/ultimatevocalremovergui/releases/latest" target="_blank">UVR5
-            <p>Vocal remover / Vocal separator</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://github.com/lllyasviel/Fooocus/releases/tag/release/latest" target="_blank">Foocus
-            <p>Easy stable diffusion</p>
-          </a>
-        </li>
-      </ul>
-    </div>
+            // Append paragraph to anchor element
+            a.appendChild(p);
 
-    <div class="section">
-      <h2>Utilidades</h2>
-      <ul>
-        <li>
-          <a href="https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html#contact" target="_blank">Link Shell Extension
-            <p>Symlinks Creator</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.flowlauncher.com/#" target="_blank">Flow launcher
-            <p>Quick File Search & App Launcher</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://vencord.dev/download/" target="_blank">Vencord
-            <p>The cutest Discord client mod</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://spicetify.app/docs/getting-started/" target="_blank">Spicetify
-            <p>Tool to take control of the Spotify client</p>
-          </a>
-        </li>
-        <li>
-          <a href="https://visualstudio.microsoft.com/downloads/" target="_blank">Visual Studio Tools
-            <p>IDE for .NET and C++</p>
-          </a>
-        </li>
-      </ul>
-    </div>
-  </div>
+            // Append anchor element to list item
+            li.appendChild(a);
 
+            // Append list item to the list
+            ul.appendChild(li);
+          });
+
+          // Append list to the section
+          sectionDiv.appendChild(ul);
+
+          // Append section to the container
+          sectionsContainer.appendChild(sectionDiv);
+        });
+      } catch (error) {
+        console.error('Error fetching data:', error);
+      }
+    }
+
+    // Call the function when the page loads
+    window.onload = fetchAndDisplayLinks;
+  </script>
 </body>
-
 </html>

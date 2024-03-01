@@ -1,0 +1,155 @@
+{
+  "categories": [
+    {
+      "name": "Everyday",
+      "links": [
+        {
+          "name": "Firefox",
+          "url": "https://www.mozilla.org/en-US/firefox/new/",
+          "description": "Web browser"
+        },
+        {
+          "name": "Logitech G Hub",
+          "url": "https://www.logitechg.com/en-us/innovation/g-hub.html",
+          "description": "Logitech devices hub"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.com/",
+          "description": "Discord"
+        },
+        {
+          "name": "Spotify",
+          "url": "https://open.spotify.com/download",
+          "description": "Spotify"
+        },
+        {
+          "name": "7-Zip",
+          "url": "https://7-zip.org/",
+          "description": "Compression and decompression"
+        }
+      ]
+    },
+    {
+      "name": "Specialized",
+      "links": [
+        {
+          "name": "Revo Uninstaller",
+          "url": "https://drive.google.com/file/d/13eidiQmVoq0QvAG1VNi-BVfrGK9fQIsr/view?usp=drive_link",
+          "description": "Advanced uninstaller"
+        },
+        {
+          "name": "RustDesk",
+          "url": "https://github.com/rustdesk/rustdesk/releases/latest",
+          "description": "PC remote access"
+        },
+        {
+          "name": "Miniforge",
+          "url": "https://github.com/conda-forge/miniforge/releases/latest",
+          "description": "Quick fork of MiniConda"
+        },
+        {
+          "name": "Visual Studio Code",
+          "url": "https://code.visualstudio.com/",
+          "description": "Text editor"
+        },
+        {
+          "name": "Git",
+          "url": "https://git-scm.com/download/win",
+          "description": "Download GitHub repos"
+        }
+      ]
+    },
+    {
+      "name": "Games",
+      "links": [
+        {
+          "name": "NVIDIA App",
+          "url": "https://www.nvidia.com/en-us/software/nvidia-app/",
+          "description": "Nvidia driver updater"
+        },
+        {
+          "name": "Steam",
+          "url": "https://store.steampowered.com/about/",
+          "description": "Games Launcher"
+        },
+
+        {
+          "name": "Epic Games",
+          "url": "https://www.epicgames.com/site/en-US/home",
+          "description": "Games Launcher"
+        },
+        {
+          "name": "JASM",
+          "url": "https://gamebanana.com/tools/14574",
+          "description": "Genshin skin manager"
+        }
+      ]
+    },
+    {
+      "name": "AI",
+      "links": [
+        {
+          "name": "ComfyUI",
+          "url": "https://github.com/comfyanonymous/ComfyUI/releases/latest",
+          "description": "Stable diffusion node based"
+        },
+        {
+          "name": "Applio",
+          "url": "https://github.com/IAHispano/Applio",
+          "description": "Voice cloning"
+        },
+        {
+          "name": "Lama-Cleaner",
+          "url": "https://drive.google.com/file/d/1pUFsHYHpRQ03DtCw_YXcxWoZ74yjgpMF/view?usp=sharing",
+          "description": "Image inpainting"
+        },
+        {
+          "name": "UVR5",
+          "url": "https://github.com/Anjok07/ultimatevocalremovergui/releases/latest",
+          "description": "Vocal remover / Vocal separator"
+        },
+        {
+          "name": "SD WebUI Forge",
+          "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge/releases/tag/latest",
+          "description": "Easy stable diffusion"
+        }
+      ]
+    },
+    {
+      "name": "Utilities",
+      "links": [
+        {
+          "name": "Link Shell Extension",
+          "url": "https://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html#contact",
+          "description": "Symlinks Creator"
+        },
+        {
+          "name": "Flow launcher",
+          "url": "https://www.flowlauncher.com/#",
+          "description": "Quick File Search & App Launcher"
+        },
+        {
+          "name": "Vencord",
+          "url": "https://vencord.dev/download/",
+          "description": "The cutest Discord client mod"
+        },
+        {
+          "name": "Spicetify",
+          "url": "https://spicetify.app/docs/getting-started/",
+          "description": "Tool to take control of the Spotify client"
+        },
+        {
+          "name": "Visual Studio Tools",
+          "url": "https://visualstudio.microsoft.com/downloads/",
+          "description": "IDE for .NET and C++"
+        },
+        {
+          "name": "Regedit Actions",
+          "url": "https://github.com/Pocholo95/Pocholo95.github.io/tree/main/Regedit-Actions",
+          "description": "Custom actions for me"
+        }
+      ]
+    }
+  ]
+}
